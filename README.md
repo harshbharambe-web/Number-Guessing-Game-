@@ -55,12 +55,3 @@ This mini project focuses on strengthening core JavaScript logic and user intera
 3. Click **Start Game** and follow the prompts  
 
 ---
-
-## 📌 Future Improvements
-
-- Replace prompts with input-based UI
-- Add score tracking
-- Improve UI and responsiveness
-- Add difficulty levels
-
---
